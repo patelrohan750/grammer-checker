@@ -1,0 +1,12 @@
+{
+    "workbench.activityBar.location": "default",
+    "workbench.editor.decorations.colors": true,
+    "workbench.statusBar.visible": true,
+    "workbench.tips.enabled": true,
+    "workbench.tree.enableStickyScroll": false,
+    "breadcrumbs.enabled": true,
+    "workbench.editor.enablePreview": true,
+    "workbench.editor.editorActionsLocation": "hidden",
+    "workbench.editor.enablePreviewFromCodeNavigation": false,
+    "zenMode.hideLineNumbers": false
+}
